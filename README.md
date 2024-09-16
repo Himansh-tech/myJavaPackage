@@ -29,3 +29,19 @@ MAKINGPACKAGE/
 │   └── Div.java
 └── Calculator.java
 </pre>
+
+
+Here in my case:
+    Let's say if I want to import "Add" which is in "p1" folder then it will be done like => import p1.Add;
+Here "p1" is the name of folder in which class "Add" is there.
+
+Similarly in "import java.util.Scanner" the "scanner" class is inside "util" folder which itself is inside "java" folder or 
+java is the top-level package.
+util is a sub-package of java.
+Scanner is the class within the util package.
+
+<pre>
+java/
+└── util/
+    └── Scanner.java
+</pre>
