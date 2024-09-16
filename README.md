@@ -1,4 +1,6 @@
 Learning packages in java:
+Packages are used to group related classes, interfaces, and sub-packages together. This helps in organizing your code and managing dependencies effectively. 
+
 Took a simple example of calcultor, made 4 different folder with their java files Add, Sub, Mul, and Div with corresponding Package name p1,p2,p3 and p4.
 
 Then we imported all the packages in our main Calculator class and made the objects for each class and then used that objects to call the function of that class.
