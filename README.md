@@ -14,7 +14,7 @@ Same things happens when we work with Scanner;
 
 Structure of All files and folder is something like this:
 
-
+<pre>
 MAKINGPACKAGE/
 │
 ├── p1/
@@ -24,3 +24,5 @@ MAKINGPACKAGE/
 ├── p3/
 │   └── Mul.java
 └── Main.java
+</pre>
+
